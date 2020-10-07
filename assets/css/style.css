@@ -341,7 +341,7 @@ h1, h2, h3, h4, h5, h6 {
   flex-direction: column;
   text-align: center;
   position: relative;
-  height: 70vh;
+  height: 85vh;
   padding-top: 60px;
 }
 
@@ -1598,3 +1598,16 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+
+/* #particles-js{
+  background-image: url("../img/hero-bg.jpg");
+  background-size: cover;
+  height: 680px;
+  width: 60%;
+  height: 40%;
+  background-color: #b61924;
+  background-image: url('');
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+} */
